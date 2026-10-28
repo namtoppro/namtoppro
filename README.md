@@ -4,7 +4,7 @@
 
 AI 에이전트 여러 개를 팀처럼 굴리면서, 혼자서도 실제로 쓰이는 서비스를 기획부터 배포·운영까지 만듭니다.
 
-- 🛒 **[쿠알 coual.com](https://coual.com)**: 쿠팡파트너스 핫딜 수집·가격 추적 크롤러부터 Threads 홍보까지 자동화한 최저가 알림 서비스
+- 🛒 **[쿠알 coual.com](https://coual.com)**: 쿠팡파트너스 핫딜 수집·가격 추적 크롤러부터 Threads 홍보까지 자동화한 최저가 알림 서비스 · 텔레그램 핫딜방 [@coual_hotdeal](https://t.me/coual_hotdeal)
 - 🎬 **유튜브 쇼츠 자동 생산**: 트렌드·테크 뉴스 리서치 → 대본 → 렌더링 → 업로드까지 이어지는 파이프라인 (Remotion)
 - 💬 **마을기록봇**: 주민과 대화하며 데이터를 모으고 검증·정리하는 카카오톡 챗봇 (Node.js + Codex)
 - 🗞️ **업무 자동화 봇**: 슬랙 메모 요약, 데일리 테크 뉴스, 카톡방 트렌드 리포트
@@ -34,3 +34,4 @@ AI 에이전트 여러 개를 팀처럼 굴리면서, 혼자서도 실제로 쓰
 
 - 🌐 [cheongdamlab.com](https://cheongdamlab.com)
 - 🛒 [coual.com](https://coual.com)
+- 📢 텔레그램 쿠알 핫딜 알림: [t.me/coual_hotdeal](https://t.me/coual_hotdeal)
